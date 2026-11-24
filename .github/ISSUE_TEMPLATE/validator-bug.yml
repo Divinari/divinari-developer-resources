@@ -1,0 +1,11 @@
+name: Validator Bug or False Positive
+description: Report a bug in divinari_validate.py or suggest an anti-synthetic edge check.
+title: "[Validator Bug]: "
+labels: ["validator"]
+body:
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal Synthetic Input & Observed vs. Expected Output
+    validations:
+      required: true

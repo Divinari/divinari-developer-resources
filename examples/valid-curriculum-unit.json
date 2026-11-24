@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "unit_id": "tl_a1_unit_greetings",
+  "language_code": "tl",
+  "cefr_level": "A1",
+  "actfl_level": "Novice Low",
+  "title": "Everyday Courtesies and Greetings",
+  "can_do_statements": [
+    "I can greet someone politely at different times of day."
+  ],
+  "concept_keys": [
+    "GREETING_MORNING",
+    "GRATITUDE_THANK_YOU"
+  ],
+  "license": "CC-BY-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "Divinari Open Syllabus Schema Fixture",
+  "contributors": [
+    "divinari-maintainers"
+  ]
+}

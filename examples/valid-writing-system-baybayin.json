@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0.0",
+  "script_id": "baybayin-fixture",
+  "script_name": "Baybayin (Illustrative Schema Fixture)",
+  "language_codes": [
+    "tl"
+  ],
+  "unicode_block": {
+    "start": "U+1700",
+    "end": "U+171F"
+  },
+  "license": "CC-BY-4.0",
+  "origin_type": "public_domain",
+  "source_citation": "Unicode Standard Tagalog Block U+1700-U+171F (Synthetic Stroke Coordinates)",
+  "contributors": [
+    "divinari-maintainers"
+  ],
+  "characters": [
+    {
+      "character_id": "baybayin_a",
+      "glyph": "ᜀ",
+      "romanization": "a",
+      "ipa": "/a/",
+      "category": "vowel",
+      "codepoints": [
+        "U+1700"
+      ],
+      "stroke_count": 2,
+      "mnemonic": "Normalized stroke geometry example inside [0.0, 1.0] unit canvas.",
+      "strokes": [
+        {
+          "stroke_index": 1,
+          "points": [
+            {
+              "x": 0.25,
+              "y": 0.25
+            },
+            {
+              "x": 0.5,
+              "y": 0.75
+            }
+          ]
+        },
+        {
+          "stroke_index": 2,
+          "points": [
+            {
+              "x": 0.6,
+              "y": 0.3
+            },
+            {
+              "x": 0.75,
+              "y": 0.65
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

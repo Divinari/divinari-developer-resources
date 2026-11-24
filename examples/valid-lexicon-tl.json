@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "tl",
+  "translation_language_code": "en",
+  "license": "CC-BY-4.0",
+  "origin_type": "native_speaker",
+  "source_citation": "Divinari Clean-Room Synthetic Validation Fixture",
+  "contributors": [
+    "divinari-maintainers"
+  ],
+  "entries": [
+    {
+      "concept_key": "GREETING_MORNING",
+      "sense_key": "greeting_morning_standard",
+      "term": "magandang umaga",
+      "normalized_term": "magandang umaga",
+      "part_of_speech": "phrase",
+      "gloss": "good morning",
+      "definition": "Polite morning greeting used when meeting friends, family, or colleagues.",
+      "register": "standard",
+      "pronunciation": {
+        "syllabic": "ma-gan-DANG u-MA-ga",
+        "ipa": "/ma.ɡan.ˈdaŋ u.ˈma.ɡa/"
+      },
+      "examples": [
+        {
+          "sentence_text": "Magandang umaga po sa inyong lahat.",
+          "translation": "Good morning to all of you.",
+          "tokens": [
+            {
+              "surface": "Magandang",
+              "char_start": 0,
+              "char_end": 9,
+              "lemma": "maganda"
+            },
+            {
+              "surface": "umaga",
+              "char_start": 10,
+              "char_end": 15,
+              "lemma": "umaga"
+            },
+            {
+              "surface": "po",
+              "char_start": 16,
+              "char_end": 18,
+              "lemma": "po"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "greetings",
+        "a1"
+      ],
+      "verification_status": "native-reviewed"
+    },
+    {
+      "concept_key": "GRATITUDE_THANK_YOU",
+      "sense_key": "gratitude_salamat",
+      "term": "salamat",
+      "normalized_term": "salamat",
+      "part_of_speech": "interjection",
+      "gloss": "thank you",
+      "definition": "Common expression of gratitude; often paired with polite enclitic po.",
+      "register": "standard",
+      "pronunciation": {
+        "syllabic": "sa-LA-mat",
+        "ipa": "/sa.ˈla.mat/"
+      },
+      "examples": [
+        {
+          "sentence_text": "Maraming salamat sa tulong mo.",
+          "translation": "Thank you very much for your help.",
+          "tokens": [
+            {
+              "surface": "Maraming",
+              "char_start": 0,
+              "char_end": 8,
+              "lemma": "marami"
+            },
+            {
+              "surface": "salamat",
+              "char_start": 9,
+              "char_end": 16,
+              "lemma": "salamat"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "courtesy",
+        "a1"
+      ],
+      "verification_status": "native-reviewed"
+    },
+    {
+      "concept_key": "NOUN_HOME",
+      "sense_key": "home_bahay",
+      "term": "bahay",
+      "normalized_term": "bahay",
+      "part_of_speech": "noun",
+      "gloss": "house; home",
+      "definition": "Physical dwelling or family residence.",
+      "register": "standard",
+      "pronunciation": {
+        "syllabic": "BA-hay",
+        "ipa": "/ˈba.haj/"
+      },
+      "forms": [
+        {
+          "surface": "bahay",
+          "grammatical_role": "singular"
+        },
+        {
+          "surface": "mga bahay",
+          "grammatical_role": "plural"
+        }
+      ],
+      "examples": [
+        {
+          "sentence_text": "Malinis at tahimik ang aming bahay.",
+          "translation": "Our home is clean and peaceful.",
+          "tokens": [
+            {
+              "surface": "bahay",
+              "char_start": 29,
+              "char_end": 34,
+              "lemma": "bahay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "home",
+        "a1"
+      ],
+      "verification_status": "linguist-reviewed"
+    }
+  ]
+}

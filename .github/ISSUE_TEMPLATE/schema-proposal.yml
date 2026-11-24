@@ -1,0 +1,18 @@
+name: Schema Change Proposal
+description: Propose a backward-compatible addition or SemVer major refinement to a public JSON Schema.
+title: "[Schema Proposal]: "
+labels: ["schema"]
+body:
+  - type: input
+    id: schema_file
+    attributes:
+      label: Target Schema File
+      placeholder: "e.g., schemas/lexicon-entry.schema.json"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Motivation & Backward-Compatibility Assessment
+    validations:
+      required: true

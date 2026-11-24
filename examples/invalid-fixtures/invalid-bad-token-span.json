@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "tl",
+  "translation_language_code": "en",
+  "license": "CC-BY-4.0",
+  "origin_type": "native_speaker",
+  "source_citation": "Negative Token Span Fixture",
+  "contributors": [
+    "test-runner"
+  ],
+  "sentences": [
+    {
+      "sentence_id": "tl_bad_span_001",
+      "sentence_text": "Magandang umaga po.",
+      "translation_text": "Good morning.",
+      "tokens": [
+        {
+          "surface": "umaga",
+          "char_start": 0,
+          "char_end": 5
+        }
+      ],
+      "verification_status": "native-reviewed"
+    }
+  ]
+}

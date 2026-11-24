@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "contribution_id": "heritage_fixture_001",
+  "language_code": "tl",
+  "region": "Southern Luzon",
+  "title": "Bayanihan Tradition Overview (Illustrative Fixture)",
+  "cultural_summary": "A clean-room example summarizing communal mutual aid without external hotlinks or paywall metadata.",
+  "glossary_terms": [
+    {
+      "term": "bayanihan",
+      "meaning": "communal cooperation and mutual help"
+    }
+  ],
+  "media": [
+    {
+      "creator": "Illustrative Synthetic Placeholder",
+      "license": "synthetic-placeholder",
+      "source_url": "https://example.org/synthetic-placeholder-asset"
+    }
+  ],
+  "care_ethics_confirmed": true,
+  "license": "CC-BY-4.0",
+  "origin_type": "native_speaker",
+  "source_citation": "Divinari Heritage Contribution Schema Fixture",
+  "contributors": [
+    "divinari-maintainers"
+  ]
+}

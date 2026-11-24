@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "tl",
+  "translation_language_code": "en",
+  "license": "CC-BY-SA-4.0",
+  "origin_type": "cc_by_4_0",
+  "source_citation": "LAI Commercial Edition",
+  "contributors": [
+    "test-runner"
+  ],
+  "entries": [
+    {
+      "concept_key": "TEST_BAD_LICENSE",
+      "sense_key": "bad_license",
+      "term": "salita",
+      "normalized_term": "salita",
+      "part_of_speech": "noun",
+      "gloss": "word",
+      "definition": "Fixture testing incompatible license and restricted citation rejection.",
+      "register": "standard",
+      "verification_status": "linguist-reviewed"
+    }
+  ]
+}

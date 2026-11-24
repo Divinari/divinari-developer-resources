@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "language_code": "tl",
+  "translation_language_code": "en",
+  "license": "CC-BY-4.0",
+  "origin_type": "native_speaker",
+  "source_citation": "Divinari Clean-Room Synthetic Example Fixture",
+  "contributors": [
+    "divinari-maintainers"
+  ],
+  "sentences": [
+    {
+      "sentence_id": "tl_ex_001",
+      "concept_key": "GREETING_MORNING",
+      "sentence_text": "Magandang umaga po.",
+      "translation_text": "Good morning (polite).",
+      "register": "formal",
+      "tokens": [
+        {
+          "surface": "Magandang",
+          "char_start": 0,
+          "char_end": 9
+        },
+        {
+          "surface": "umaga",
+          "char_start": 10,
+          "char_end": 15
+        },
+        {
+          "surface": "po",
+          "char_start": 16,
+          "char_end": 18
+        }
+      ],
+      "verification_status": "native-reviewed"
+    }
+  ]
+}
